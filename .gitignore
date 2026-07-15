@@ -1,0 +1,13 @@
+# Environment
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Data
+data/raw/
+data/processed/
+
+# OS/editor
+.vscode/
+.DS_Store
